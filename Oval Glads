@@ -1,0 +1,15 @@
+
+# Project OVAL-GLASS: Macro-Scale Photonic Hardware Architecture
+### An Open-Source Blueprint for Low-Cost, Continuous-Flow Computing
+
+**IP, DESIGN & CONCEPT BY:** Victor M. G. G. (V.M.G.G.) aka KARTUNE  
+**PROJECT LINE:** Toonz Nexus-9 / Project 76 Toonz  
+**CORE ARCHITECTURE:** The KARTUNE Nested Oval-Glass Matrix  
+**LICENSE:** CERN Open Hardware Licence (CERN-OHL)
+
+---
+
+## The Core Concept
+Modern computing is hitting a physical wall. Shrinking electronic transistors down to the nanometer scale has become unsustainably expensive, traps extreme heat, and creates massive data bottlenecks across traditional copper motherboard traces. 
+
+**Project OVAL-GLASS** flips the script. Instead of scaling down using expensive silicon cleanrooms, this architecture scales **up** using widely available, high-purity, upcycled television display glass (aluminosilicate glass) as a macro-scale substrate. By routing data inside the glass using continuous-wave, multi-color lasers arranged in the proprietary **KARTUNE Nested Oval-Glass Matrix**, we eliminate the need for a traditional electronic clock, eliminate internal interconnect heat, and dramatically level the playing field for high-speed AI matrix math and quantum co-processing.
